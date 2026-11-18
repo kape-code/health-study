@@ -15,8 +15,8 @@ Projektet analyserar data från en hälsostudie
 
 1. Klona repot:
 ```bash
-git clone <repo-url>
-cd <repo-namn>
+git clone https://github.com/kape-code/health-study.git
+cd health-study
 ```
 2. Skapa och aktivera virtuell miljö:
 ```bash
