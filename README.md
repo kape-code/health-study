@@ -2,6 +2,8 @@
 
 Projektet analyserar data från en hälsostudie
 
+**Del 1:** Grundläggande analys och statistik
+
 ## Miljö
 - Python 3.14.7
 - Jupyter Notebook
