@@ -3,6 +3,7 @@
 Projektet analyserar data från en hälsostudie
 
 **Del 1:** Grundläggande analys och statistik
+**Del 2:** Fördjupning och pipeline 
 
 ## Miljö
 - Python 3.14.7
@@ -11,6 +12,7 @@ Projektet analyserar data från en hälsostudie
 - Matplotlib
 - NumPy
 - SciPy
+- Scikit-learn
 - (se `requirements.txt`)
 
 ## Kom igång
